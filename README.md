@@ -41,6 +41,12 @@ The models will be evaluated using:
 * Jupyter Notebook
 * VS Code
 
+## Project Team
+K. Hiruni Dineka ITBIN 2313-0028
+H. Dewmi Dilhari ITBIN 2313-0024
+L.A. Yasith Shavinda ITBIN 2313-0107
+
+
 ## Project Status
 
 🚧 Currently in development.
